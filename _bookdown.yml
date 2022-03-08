@@ -1,0 +1,12 @@
+book_filename: 2021_apis_for_social_scientists_a_collaborative_review
+delete_merged_file: yes
+language:
+  ui:
+    chapter_name: 'Chapter '
+rmd_files:
+- index.Rmd
+- Chapter_Introduction.Rmd
+- Chapter_Best_practices.Rmd
+- Chapter_Google_places_api.Rmd
+- Chapter_Twitter_api.Rmd
+- Chapter_References_Appendix.rmd
