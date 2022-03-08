@@ -1,3 +1,3 @@
 # CSS2022-api-reviews
  
-This is the repository for the CSS course 2022 to upload and work on the chapters.
+This repository is a partial copy of https://github.com/paulcbauer/apis_for_social_scientists_a_review to be used during teaching the seminar CSS 2022 at the Universtiy of Mannheim. 
